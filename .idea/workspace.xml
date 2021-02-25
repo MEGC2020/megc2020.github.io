@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="affea4b3-fafe-491b-9074-9e45804f68b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/templatemo_style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/templatemo_style.css.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/cv.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.easing-1.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/templatemo_script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614221217837</updated>
       <workItem from="1614221219310" duration="7756000" />
+      <workItem from="1614236435814" duration="383000" />
     </task>
     <servers />
   </component>
